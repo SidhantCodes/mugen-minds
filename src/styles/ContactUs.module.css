@@ -1,0 +1,4 @@
+.textarea::placeholder {
+  color: #E5E5CB;
+  font-weight: 300;
+}
