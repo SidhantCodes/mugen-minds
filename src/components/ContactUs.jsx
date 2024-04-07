@@ -1,7 +1,7 @@
 "use client"
-import Image from 'next/image';
+import Image from "next/image"
 import { useState } from 'react';
-import styles from '../styles/ContactUs.module.css';
+import { line } from '../../public';
 const ContactUs = () => {
   // State to hold form data
   const [formData, setFormData] = useState({
