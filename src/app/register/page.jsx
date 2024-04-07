@@ -1,10 +1,10 @@
-import { Form, SideImage } from "."
+import { RegisterForm, SideImage } from "@/components"
 
 const Login = () => {
   return (
     <main className="flex text-center items-center">
       <SideImage />
-      <Form/>
+      <RegisterForm />
     </main>
   )
 }

@@ -6,6 +6,7 @@ import Features from "./Features";
 import Login from "./Login";
 import SideImage from "./SideImage";
 import Form from "./Form";
+import RegisterForm from "./RegisterForm";
 export {
   Landing,
   GetStarted,
@@ -15,4 +16,5 @@ export {
   Login,
   SideImage,
   Form,
+  RegisterForm,
 }
